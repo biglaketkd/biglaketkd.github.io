@@ -13,6 +13,11 @@
   --ifm-color-primary-light: #d9b84d;
   --ifm-color-primary-lighter: #dbbc58;
   --ifm-color-primary-lightest: #e2c979;
+
+  --ifm-blockquote-border-left-width: 3px;
+  --ifm-blockquote-border-color: var(--ifm-color-primary);
+  /* --ifm-navbar-background-color: var(--ifm-color-primary); */
+  /* --ifm-navbar-link-color: var(--ifm-color-gray-900); */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -30,4 +35,90 @@
 iframe
 {
   max-width: 100% !important;
+}
+
+/* set default menu bar colors to near-white, regardless of theme */
+.theme-doc-sidebar-item-link > .menu__link
+{
+    color: var(--ifm-color-gray-100);
+}
+
+/* common properties for all sidebar items */
+.theme-doc-sidebar-item-link
+{
+    border-radius: 4px;
+}
+
+/* handle each sidebar item by their index */
+.theme-doc-sidebar-item-link:nth-of-type(1)
+{
+    background-image: url("https://biglaketkd.com/belt-white.png");
+}
+
+/* for the lighter-colored items, need to invert text color */
+.theme-doc-sidebar-item-link:nth-of-type(1) > .menu__link,
+.theme-doc-sidebar-item-link:nth-of-type(3) > .menu__link
+{
+    color: var(--ifm-color-gray-900);
+}
+
+/* for the rest, just set corresponding color */
+.theme-doc-sidebar-item-link:nth-of-type(2)
+{
+    background-image: url("/img/belt-orange.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(3)
+{
+    background-image: url("/img/belt-yellow.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(4){
+    background-image: url("/img/belt-green.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(5)
+{
+    background-image: url("/img/belt-blue.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(6)
+{
+    background-image: url("/img/belt-purple.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(7)
+{
+    background-image: url("/img/belt-brown.png");
+}
+
+.theme-doc-sidebar-item-link:nth-of-type(8)
+{
+    background-image: url("/img/belt-red.png");
+}
+
+/* the active sidebar item */
+.theme-doc-sidebar-item-link:has(> .menu__link--active)
+{
+    background-image: url("/img/belt-black.png") !important;
+    font-weight: bolder;
+    border-left: var(--ifm-color-primary) 8px solid !important;
+}
+
+/* active sidebar item's text */
+.theme-doc-sidebar-item-link > .menu__link--active 
+{
+    color: var(--ifm-color-primary) !important;
+}
+
+
+/* set header and bold color */
+h1,
+h2,
+h3,
+h4,
+h5,
+strong,
+h6 {
+  color: var(--ifm-color-primary);
 }

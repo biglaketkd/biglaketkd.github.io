@@ -1,9 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
 const organizationName = "biglaketkd";
 const projectName = "biglaketkd.github.io";
 
@@ -77,13 +74,29 @@ const config = {
               }
             ],
           },
+          {
+            title: "Contact",
+            items: [
+              {
+                label: "Email",
+                href: "mailto:BStein@EvolutionTKD4You.com"
+              },
+              {
+                label: "Phone",
+                href: "tel:+13204933932"
+              },
+              {
+                label: "Address",
+                href: "https://maps.google.com/maps?ll=45.335633,-93.732077&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=10630487737643654566"
+              }
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} biglaketkd.com.`,
       },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
+      metadata: [
+        {name: "theme-color", content: "#d4af37"}
+      ]
     }),
 };
 

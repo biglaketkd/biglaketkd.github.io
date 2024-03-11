@@ -1,7 +1,7 @@
 ---
-sidebar-position: 3
 slug: location
-title: Location
+title: Gym Location
+description: Get Directions to our Gym!
 ---
 
 # Big Lake Tae Kwon Do Gym Location
