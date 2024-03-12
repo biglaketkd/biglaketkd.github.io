@@ -31,18 +31,22 @@ const config = {
 
   presets: [
     [
-      "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      '@docusaurus/preset-classic',
+      {
+        gtag:
+        {
+          trackingID: 'G-FT0S0S9Z0G',
+          anonymizeIP: true,
+        },
         docs: {
           routeBasePath: '/',
-          sidebarPath: require.resolve("./sidebars.js")
+          sidebarPath: require.resolve("./sidebars.js"),
         },
+        blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-        blog: false
-      }),
+      },
     ],
   ],
 
