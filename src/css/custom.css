@@ -52,7 +52,7 @@ iframe
 /* handle each sidebar item by their index */
 .theme-doc-sidebar-item-link:nth-of-type(1)
 {
-    background-image: url("https://biglaketkd.com/belt-white.png");
+    background-image: url("/img/belt-white.png");
 }
 
 /* for the lighter-colored items, need to invert text color */
