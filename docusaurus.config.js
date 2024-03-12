@@ -2,13 +2,13 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const organizationName = "biglaketkd";
-const projectName = "biglaketkd.github.io";
+const projectName = "biglaketkd.com";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Big Lake Tae Kwon Do",
   tagline: "Big lake Tae Kwon Do",
-  url: `https://${organizationName}.github.io`,
+  url: `https://${organizationName}.com`,
   baseUrl: `/`,
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "throw",
