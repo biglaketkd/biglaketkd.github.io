@@ -22,7 +22,7 @@ title: Class Schedules
 
 | Class | Age | Start Time | End Time |
 | --- | --- | --- | --- |
-| Mini Kickers |  4yrs-6yrs  |  5:00pm  |  5:30pm  |
+| Mini Kickers (FULL) |  4yrs-6yrs  |  5:00pm  |  5:30pm  |
 | Mini Kickers  | 4yrs-6yrs | 5:30pm | 6:00pm | 
 | Youth Tae Kwon Do | 7yrs-12yrs | 6:00pm | 7:00pm |
 | Kumdo/Asian Fencing  |  11yrs and Older  |  7:00pm  |  8:00pm  |
