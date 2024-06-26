@@ -6,14 +6,14 @@ description: Pricing and Payment Information
 
 ## Evolution Tae Kwon Do Monthly Payments
 ----
-|  Tae Kwon Do & Kumdo, Twice a Week Pricing  | Cost Per month  |    
+|  Tae Kwon Do & Kumdo, Twice a Week Pricing (8 Classes)  | Cost Per month  |    
 |  ---  |  ---  |
 |  1 Family Member  |  $70.00   | 
 |  2 Family Members  |  $130.00   |  
 |  3 Family Members  |  $180.00  |
 |  4 Family Members  |  $240.00  |
 
-|  Tae Kwon Do & Kumdo, Once a Week Pricing  | Cost Per month  |    
+|  Tae Kwon Do & Kumdo, Once a Week Pricing (4 Classes)  | Cost Per month  |    
 |  ---  |  ---  |
 |  1 Family Member  |  $55.00   | 
 |  2 Family Members  |  $100.00   |  
