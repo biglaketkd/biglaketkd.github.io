@@ -12,7 +12,7 @@ title: Class Schedules
 |  ---  |  ---  |  ---  |  ---  |
 |  Youth Tae Kwon Do  | 7yrs-12yrs  |  1:00pm  |  2:00pm  |
 |  Adult Tae Kwon Do  |  13yrs and Older  |  2:00pm  |  3:00pm  |
-|  Kumdo/Asian Fencing, Pooms, and Adult Black Belts  |  11yrs and Older  |  3:00pm  |  4:00pm  |
+|  Kumdo/Asian Fencing  |  11yrs and Older  |  3:00pm  |  4:00pm  |
 
 
 ---
@@ -25,7 +25,7 @@ title: Class Schedules
 | Mini Kickers  |  4yrs-6yrs  |  5:00pm  |  5:30pm  |
 | Mini Kickers  | 4yrs-6yrs | 5:30pm | 6:00pm | 
 | Youth Tae Kwon Do | 7yrs-12yrs | 6:00pm | 7:00pm |
-| Kumdo/Asian Fencing  |  11yrs and Older  |  7:00pm  |  8:00pm  |
+| Kumdo/Asian Fencing, Pooms, and Adult Black Belts  |  11yrs and Older  |  7:00pm  |  8:00pm  |
 
 
 
