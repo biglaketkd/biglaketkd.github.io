@@ -316,3 +316,6 @@ Unlimited classes for the month.  Costs: $135.00
     alt="Add to Cart"
   />
 </form>
+
+##Package Deals (September-December)
+https://www.paypal.com/ncp/payment/7HT52ATJMH676
