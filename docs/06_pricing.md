@@ -317,4 +317,5 @@ Unlimited classes for the month.  Costs: $135.00
   />
 </form>
 
-##Package Deals (September-December).
+
+## Package Deals (September-December).
