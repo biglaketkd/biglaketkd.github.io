@@ -319,6 +319,7 @@ Unlimited classes for the month.  Costs: $135.00
 
 
 ## Package Deals (September-December).
+
 <script src="https://www.paypal.com/sdk/js?client-id=BAAzSZPiPyGSdldscgojmFrCLYhd2ydCf71G9_IGr4yMCpZNqgKz-FlRRW12r4DG7hgrO2cy9ygmxhUyX0&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
 <div id="paypal-container-FCMWYGT3S8XCN"></div>
 <script>
@@ -326,3 +327,5 @@ Unlimited classes for the month.  Costs: $135.00
     hostedButtonId: "FCMWYGT3S8XCN",
   }).render("#paypal-container-FCMWYGT3S8XCN")
 </script>
+
+
